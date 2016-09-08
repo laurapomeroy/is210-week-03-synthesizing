@@ -4,3 +4,8 @@
 
 
 import inquisition
+
+INQUISITION = inquisition.SPANISH
+
+FLEMISH = INQUISITION.replace('Spanish','Flemish')
+
